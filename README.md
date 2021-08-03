@@ -1,4 +1,4 @@
-# 개발환경 연습을 위한 간단한 테스트 페이지
+# intellij 환경 연습을 위한 간단한 테스트 페이지
 intellij /
 spring boot /
 gradle /
